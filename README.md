@@ -11,18 +11,19 @@ Ethereum Sepolia
 
 ## Student Information
 
-Student Name: YOUR NAME
+Student Name: CASTILLO, CHRISELDA N.
+              SISON, BEAU MAVERICK JOAQEM L.
 
-Program / Section: YOUR PROGRAM / SECTION
+Program / Section: BSIT-4PACED
 
-Date: YOUR DATE
+Date: 09-16-26
 
 ## Smart Contract
 
 Contract Name: PalengkeLedger
 
 Contract Address:
-YOUR_DEPLOYED_CONTRACT_ADDRESS
+0xbc25d73eb51034D584D66Cf0023eDCb383d72B4D
 
 ## Technologies Used
 
